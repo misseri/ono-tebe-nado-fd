@@ -249,8 +249,7 @@
 .about {
   display: grid;
   grid-template-columns: 334px 1fr;
-  grid-template-rows: 1fr 180px;
-  padding: 0 24px;
+  padding: 0 24px 180px 24px;
 }
 
 .about__column {
